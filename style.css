@@ -1,0 +1,30 @@
+form{
+    background-color: black;
+    width: 900px;
+    border-radius: 30px;
+    text-align: center;
+
+}
+.gray12{
+    background-color: orange;
+    text-align: center;
+}
+input{
+    width: 350px;
+    height: 50px;
+    border-radius: 20px;
+}
+label{
+    font-size: 24px;
+}
+button{
+    background-color: green;
+    color: white;
+    width: 350px;
+    height: 30px;
+    border-radius: 20px;
+  
+}
+.sariq{
+    color: yellow;
+}
